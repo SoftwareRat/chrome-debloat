@@ -12,7 +12,7 @@ chromeExtensions: &chromeExtensions
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
-  <<: *chromeExtensions
+  !!merge <<: *chromeExtensions
   # Content Settings
   DefaultGeolocationSetting: 2
   DefaultNotificationsSetting: 2
@@ -62,7 +62,7 @@ chrome: &chrome
 
 # https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy
 brave: &brave
-  <<: *chrome
+  !!merge <<: *chrome
   BraveAIChatEnabled: false
   BraveNewsDisabled: true # brave 1.82
   BraveP3AEnabled: false # brave 1.83
@@ -76,10 +76,11 @@ brave: &brave
   BraveWaybackMachineEnabled: false # brave 1.82
   BraveWebDiscoveryEnabled: false # brave 1.83
   TorDisabled: true
+  BravePlaylistEnabled: false # brave 1.84
 
 # https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies
 edge: &edge
-  <<: *chrome
+  !!merge <<: *chrome
   # Application Guard
   ApplicationGuardFavoritesSyncEnabled: false
   ApplicationGuardPassiveModeEnabled: false

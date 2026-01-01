@@ -57,6 +57,8 @@
 			<false/>
 			<key>TorDisabled</key>
 			<true/>
+			<key>BravePlaylistEnabled</key>
+			<false/>
 			<key>DefaultGeolocationSetting</key>
 			<integer>2</integer>
 			<key>DefaultNotificationsSetting</key>

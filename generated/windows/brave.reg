@@ -14,6 +14,7 @@ Windows Registry Editor Version 5.00
 "BraveWaybackMachineEnabled"=dword:00000000
 "BraveWebDiscoveryEnabled"=dword:00000000
 "TorDisabled"=dword:00000001
+"BravePlaylistEnabled"=dword:00000000
 "DefaultGeolocationSetting"=dword:00000002
 "DefaultNotificationsSetting"=dword:00000002
 "DefaultLocalFontsSetting"=dword:00000002
