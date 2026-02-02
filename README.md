@@ -64,7 +64,7 @@ If you want to customize the policies:
 ### Uninstalling Policies
 
 **Windows:**
-1.  Navigate to the [`uninstall/windows/`](./uninstall/) directory in this repository.
+1.  Navigate to the [`uninstall/windows/`](./uninstall/windows) directory in this repository.
 2.  Run the `.reg` file corresponding to your browser (e.g., `uninstall_chrome.reg`). This will remove the registry keys added during installation.
 3.  Restart your browser or go to `chrome://policy` (or `edge://policy`, `brave://policy`) and click "Reload policies".
 
