@@ -10,13 +10,9 @@ A tool to generate policies for Chromium-based browsers (Chrome, Brave, and Edge
 - Maintains browser functionality while reducing resource usage
 - Pre-configures essential extensions:
   - uBlock Origin
-  - Cookie AutoDelete
-  - Don't f*** with paste
-  - I still don't care about cookies
   - SponsorBlock
-  - BlockTube
-  - BlankTab
-  - Decentraleyes
+  - Return YouTube Dislike
+  - Cookie Editor
 
 ### Supported Browsers
 

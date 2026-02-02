@@ -2,13 +2,9 @@ chromeExtensions: &chromeExtensions
   ExtensionManifestV2Availability: 2
   ExtensionInstallForcelist:
   - cjpalhdlnbpafiamejdnhcphjbkeiagm # uBlock Origin; Chrome Web Store
-  - fhcgjolkccmbidfldomjliifgaodjagh # Cookie AutoDelete; Chrome Web Store
-  - nkgllhigpcljnhoakjkgaieabnkmgdkb # Don't f*** with paste; Chrome Web Store
-  - edibdbjcniadpccecjdfdjjppcpchdlm # I still don't care about cookies; Chrome Web Store
   - mnjggcdmjocbbbhaepdhchncahnbgone # SponsorBlock; Chrome Web Store
-  - bbeaicapbccfllodepmimpkgecanonai # BlockTube; Chrome Web Store
-  - jaadjnlkjnhohljficgoddcjmndjfdmi # Blank Tab; Chrome Web Store
-  - ldpochfccmkkmhdbclfhpagapcfdljkj # Decentraleyes; Chrome Web Store
+  - gebbhagfogifgggkldgodflihgfeippi # Return YouTube Dislike; Chrome Web Store
+  - hlkenndednhfkekhgcdicdfddnkalmdm # Cookie-Editor; Chrome Web Store
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
@@ -69,7 +65,6 @@ brave: &brave
   BraveRewardsDisabled: true
   BraveSpeedreaderEnabled: false # brave 1.82
   BraveStatsPingEnabled: false # brave 1.83
-  BraveSyncUrl: ""
   BraveTalkDisabled: true # brave 1.82
   BraveVPNDisabled: true
   BraveWalletDisabled: true
@@ -106,9 +101,6 @@ edge: &edge
   BlockExternalExtensions: false
   ExtensionInstallForcelist:
   - odfafepnkmbhccpbejgmiehpchacaeak # uBlock Origin; Edge Web Store
-  - djkjpnciiommncecmdefpdllknjdmmmo # Cookie AutoDelete; Edge Web Store
-  - kkacdgacpkediooahopgcbdahlpipheh # I still don't care about cookies; Edge Web Store
-  - ihknoknoahjhldmpdoajjdkfjhddgpcd # Blank Tab; Edge Web Store
   # Games
   GamerModeEnabled: false
   # Generative AI
