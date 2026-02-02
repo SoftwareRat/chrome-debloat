@@ -5,7 +5,6 @@
   "BraveRewardsDisabled": true,
   "BraveSpeedreaderEnabled": false,
   "BraveStatsPingEnabled": false,
-  "BraveSyncUrl": "",
   "BraveTalkDisabled": true,
   "BraveVPNDisabled": true,
   "BraveWalletDisabled": true,
@@ -56,12 +55,8 @@
   "ExtensionManifestV2Availability": 2,
   "ExtensionInstallForcelist": [
     "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-    "fhcgjolkccmbidfldomjliifgaodjagh",
-    "nkgllhigpcljnhoakjkgaieabnkmgdkb",
-    "edibdbjcniadpccecjdfdjjppcpchdlm",
     "mnjggcdmjocbbbhaepdhchncahnbgone",
-    "bbeaicapbccfllodepmimpkgecanonai",
-    "jaadjnlkjnhohljficgoddcjmndjfdmi",
-    "ldpochfccmkkmhdbclfhpagapcfdljkj"
+    "gebbhagfogifgggkldgodflihgfeippi",
+    "hlkenndednhfkekhgcdicdfddnkalmdm"
   ]
 }

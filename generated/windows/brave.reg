@@ -7,7 +7,6 @@ Windows Registry Editor Version 5.00
 "BraveRewardsDisabled"=dword:00000001
 "BraveSpeedreaderEnabled"=dword:00000000
 "BraveStatsPingEnabled"=dword:00000000
-"BraveSyncUrl"=""
 "BraveTalkDisabled"=dword:00000001
 "BraveVPNDisabled"=dword:00000001
 "BraveWalletDisabled"=dword:00000001
@@ -55,10 +54,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallForcelist]
 "1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"
-"2"="fhcgjolkccmbidfldomjliifgaodjagh"
-"3"="nkgllhigpcljnhoakjkgaieabnkmgdkb"
-"4"="edibdbjcniadpccecjdfdjjppcpchdlm"
-"5"="mnjggcdmjocbbbhaepdhchncahnbgone"
-"6"="bbeaicapbccfllodepmimpkgecanonai"
-"7"="jaadjnlkjnhohljficgoddcjmndjfdmi"
-"8"="ldpochfccmkkmhdbclfhpagapcfdljkj"
+"2"="mnjggcdmjocbbbhaepdhchncahnbgone"
+"3"="gebbhagfogifgggkldgodflihgfeippi"
+"4"="hlkenndednhfkekhgcdicdfddnkalmdm"

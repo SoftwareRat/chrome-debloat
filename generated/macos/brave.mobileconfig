@@ -43,8 +43,6 @@
 			<false/>
 			<key>BraveStatsPingEnabled</key>
 			<false/>
-			<key>BraveSyncUrl</key>
-			<string></string>
 			<key>BraveTalkDisabled</key>
 			<true/>
 			<key>BraveVPNDisabled</key>
@@ -140,13 +138,9 @@
 			<key>ExtensionInstallForcelist</key>
 			<array>
 				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
-				<string>fhcgjolkccmbidfldomjliifgaodjagh</string>
-				<string>nkgllhigpcljnhoakjkgaieabnkmgdkb</string>
-				<string>edibdbjcniadpccecjdfdjjppcpchdlm</string>
 				<string>mnjggcdmjocbbbhaepdhchncahnbgone</string>
-				<string>bbeaicapbccfllodepmimpkgecanonai</string>
-				<string>jaadjnlkjnhohljficgoddcjmndjfdmi</string>
-				<string>ldpochfccmkkmhdbclfhpagapcfdljkj</string>
+				<string>gebbhagfogifgggkldgodflihgfeippi</string>
+				<string>hlkenndednhfkekhgcdicdfddnkalmdm</string>
 			</array>
 		</dict>
 	</array>
