@@ -116,7 +116,7 @@ Windows Registry Editor Version 5.00
 "WalletDonationEnabled"=dword:00000000
 "WebWidgetAllowed"=dword:00000000
 "DefaultGeolocationSetting"=dword:00000002
-"DefaultNotificationsSetting"=dword:00000002
+"GeolocationAllowedForUrls"="https://maps.google.com;https://www.google.com/maps;https://www.openstreetmap.org;https://www.bing.com/maps;https://mapbox.com;https://www.mapbox.com;https://www.vgn.de;https://www.bahn.de;https://www.hvv.de;https://www.vbb.de;https://www.mvg.de;https://www.rmv.de;https://www.vrr.de;https://www.kvb.koeln"
 "DefaultLocalFontsSetting"=dword:00000002
 "DefaultSensorsSetting"=dword:00000002
 "DefaultSerialGuardSetting"=dword:00000002

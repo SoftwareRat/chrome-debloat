@@ -265,8 +265,23 @@
 			<false/>
 			<key>DefaultGeolocationSetting</key>
 			<integer>2</integer>
-			<key>DefaultNotificationsSetting</key>
-			<integer>2</integer>
+			<key>GeolocationAllowedForUrls</key>
+			<array>
+				<string>https://maps.google.com</string>
+				<string>https://www.google.com/maps</string>
+				<string>https://www.openstreetmap.org</string>
+				<string>https://www.bing.com/maps</string>
+				<string>https://mapbox.com</string>
+				<string>https://www.mapbox.com</string>
+				<string>https://www.vgn.de</string>
+				<string>https://www.bahn.de</string>
+				<string>https://www.hvv.de</string>
+				<string>https://www.vbb.de</string>
+				<string>https://www.mvg.de</string>
+				<string>https://www.rmv.de</string>
+				<string>https://www.vrr.de</string>
+				<string>https://www.kvb.koeln</string>
+			</array>
 			<key>DefaultLocalFontsSetting</key>
 			<integer>2</integer>
 			<key>DefaultSensorsSetting</key>
