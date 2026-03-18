@@ -44,3 +44,6 @@ Windows Registry Editor Version 5.00
 "2"="mnjggcdmjocbbbhaepdhchncahnbgone"
 "3"="gebbhagfogifgggkldgodflihgfeippi"
 "4"="hlkenndednhfkekhgcdicdfddnkalmdm"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist]
+"1"="jlhcojdohadhkchjpjefbmagpiaedpgc"

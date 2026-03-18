@@ -150,3 +150,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge\ExtensionInstallForcelist]
 "1"="odfafepnkmbhccpbejgmiehpchacaeak"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge\ExtensionInstallAllowlist]
+"1"="jlhcojdohadhkchjpjefbmagpiaedpgc"

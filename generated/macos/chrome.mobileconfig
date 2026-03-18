@@ -131,6 +131,10 @@
 				<string>gebbhagfogifgggkldgodflihgfeippi</string>
 				<string>hlkenndednhfkekhgcdicdfddnkalmdm</string>
 			</array>
+			<key>ExtensionInstallAllowlist</key>
+			<array>
+				<string>jlhcojdohadhkchjpjefbmagpiaedpgc</string>
+			</array>
 		</dict>
 	</array>
 </dict>

@@ -346,6 +346,10 @@
 			<true/>
 			<key>ExtensionManifestV2Availability</key>
 			<integer>2</integer>
+			<key>ExtensionInstallAllowlist</key>
+			<array>
+				<string>jlhcojdohadhkchjpjefbmagpiaedpgc</string>
+			</array>
 		</dict>
 	</array>
 </dict>

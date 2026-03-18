@@ -166,5 +166,8 @@
   "ParcelTrackingEnabled": false,
   "ShoppingListEnabled": false,
   "SyncDisabled": true,
-  "ExtensionManifestV2Availability": 2
+  "ExtensionManifestV2Availability": 2,
+  "ExtensionInstallAllowlist": [
+    "jlhcojdohadhkchjpjefbmagpiaedpgc"
+  ]
 }
