@@ -5,6 +5,8 @@ chromeExtensions: &chromeExtensions
   - mnjggcdmjocbbbhaepdhchncahnbgone # SponsorBlock; Chrome Web Store
   - gebbhagfogifgggkldgodflihgfeippi # Return YouTube Dislike; Chrome Web Store
   - hlkenndednhfkekhgcdicdfddnkalmdm # Cookie-Editor; Chrome Web Store
+  ExtensionInstallAllowlist:
+  - jlhcojdohadhkchjpjefbmagpiaedpgc # open-in-mpv; @Tatsh on GitHub
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
