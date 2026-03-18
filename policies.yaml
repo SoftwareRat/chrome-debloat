@@ -7,6 +7,7 @@ chromeExtensions: &chromeExtensions
   - hlkenndednhfkekhgcdicdfddnkalmdm # Cookie-Editor; Chrome Web Store
   ExtensionInstallAllowlist:
   - jlhcojdohadhkchjpjefbmagpiaedpgc # open-in-mpv; @Tatsh on GitHub
+  - dpgbgagdkmkijoaoeabimaggfkfgnggb # Cashback Optimizer; Microsoft Edge Addons
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
