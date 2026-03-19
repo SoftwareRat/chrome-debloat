@@ -8,6 +8,7 @@ chromeExtensions: &chromeExtensions
   ExtensionInstallAllowlist:
   - jlhcojdohadhkchjpjefbmagpiaedpgc # open-in-mpv; @Tatsh on GitHub
   - dpgbgagdkmkijoaoeabimaggfkfgnggb # Cashback Optimizer; Microsoft Edge Addons
+  - ibmfbeedhmhhmgmplmndbdoeejcnjpig # open-in-mpv; @Baldomo on GitHub
 
 # https://chromeenterprise.google/policies/
 chrome: &chrome
