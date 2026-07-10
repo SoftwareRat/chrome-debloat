@@ -54,6 +54,9 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallForcelist]
 "1"="jcokkipkhhgiakinbnnplhkdbjbgcgpe"
+"2"="mnjggcdmjocbbbhaepdhchncahnbgone"
+"3"="gebbhagfogifgggkldgodflihgfeippi"
+"4"="hlkenndednhfkekhgcdicdfddnkalmdm"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallAllowlist]
 "1"="jlhcojdohadhkchjpjefbmagpiaedpgc"

@@ -81,6 +81,9 @@ brave: &brave
   - cjpalhdlnbpafiamejdnhcphjbkeiagm # uBlock Origin; Chrome Web Store
   ExtensionInstallForcelist:
   - jcokkipkhhgiakinbnnplhkdbjbgcgpe # uBlock Origin; Brave-hosted
+  - mnjggcdmjocbbbhaepdhchncahnbgone # SponsorBlock; Chrome Web Store
+  - gebbhagfogifgggkldgodflihgfeippi # Return YouTube Dislike; Chrome Web Store
+  - hlkenndednhfkekhgcdicdfddnkalmdm # Cookie-Editor; Chrome Web Store
   BraveAIChatEnabled: false
   BraveNewsDisabled: true # brave 1.82
   BraveP3AEnabled: false # brave 1.83
