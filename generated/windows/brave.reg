@@ -53,12 +53,12 @@ Windows Registry Editor Version 5.00
 "ExtensionManifestV2Availability"=dword:00000002
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallForcelist]
-"1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"
-"2"="mnjggcdmjocbbbhaepdhchncahnbgone"
-"3"="gebbhagfogifgggkldgodflihgfeippi"
-"4"="hlkenndednhfkekhgcdicdfddnkalmdm"
+"1"="jcokkipkhhgiakinbnnplhkdbjbgcgpe"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallAllowlist]
 "1"="jlhcojdohadhkchjpjefbmagpiaedpgc"
 "2"="dpgbgagdkmkijoaoeabimaggfkfgnggb"
 "3"="ibmfbeedhmhhmgmplmndbdoeejcnjpig"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave\ExtensionInstallBlocklist]
+"1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"

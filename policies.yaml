@@ -77,6 +77,10 @@ chrome: &chrome
 # https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy
 brave: &brave
   !!merge <<: *chrome
+  ExtensionInstallBlocklist:
+  - cjpalhdlnbpafiamejdnhcphjbkeiagm # uBlock Origin; Chrome Web Store
+  ExtensionInstallForcelist:
+  - jcokkipkhhgiakinbnnplhkdbjbgcgpe # uBlock Origin; Brave-hosted
   BraveAIChatEnabled: false
   BraveNewsDisabled: true # brave 1.82
   BraveP3AEnabled: false # brave 1.83

@@ -1,4 +1,10 @@
 {
+  "ExtensionInstallBlocklist": [
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm"
+  ],
+  "ExtensionInstallForcelist": [
+    "jcokkipkhhgiakinbnnplhkdbjbgcgpe"
+  ],
   "BraveAIChatEnabled": false,
   "BraveNewsDisabled": true,
   "BraveP3AEnabled": false,
@@ -68,12 +74,6 @@
   "ShoppingListEnabled": false,
   "SyncDisabled": true,
   "ExtensionManifestV2Availability": 2,
-  "ExtensionInstallForcelist": [
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-    "mnjggcdmjocbbbhaepdhchncahnbgone",
-    "gebbhagfogifgggkldgodflihgfeippi",
-    "hlkenndednhfkekhgcdicdfddnkalmdm"
-  ],
   "ExtensionInstallAllowlist": [
     "jlhcojdohadhkchjpjefbmagpiaedpgc",
     "dpgbgagdkmkijoaoeabimaggfkfgnggb",

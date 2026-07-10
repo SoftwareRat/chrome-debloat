@@ -31,6 +31,14 @@
 			<integer>1</integer>
 			<key>PayloadEnabled</key>
 			<true/>
+			<key>ExtensionInstallBlocklist</key>
+			<array>
+				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
+			</array>
+			<key>ExtensionInstallForcelist</key>
+			<array>
+				<string>jcokkipkhhgiakinbnnplhkdbjbgcgpe</string>
+			</array>
 			<key>BraveAIChatEnabled</key>
 			<false/>
 			<key>BraveNewsDisabled</key>
@@ -150,13 +158,6 @@
 			<true/>
 			<key>ExtensionManifestV2Availability</key>
 			<integer>2</integer>
-			<key>ExtensionInstallForcelist</key>
-			<array>
-				<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
-				<string>mnjggcdmjocbbbhaepdhchncahnbgone</string>
-				<string>gebbhagfogifgggkldgodflihgfeippi</string>
-				<string>hlkenndednhfkekhgcdicdfddnkalmdm</string>
-			</array>
 			<key>ExtensionInstallAllowlist</key>
 			<array>
 				<string>jlhcojdohadhkchjpjefbmagpiaedpgc</string>
